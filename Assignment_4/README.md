@@ -22,7 +22,7 @@ Predicts fuel efficiency (MPG) from engine specs. Compares **linear underfitting
 |------|------|---------|
 | `assign4_autompg.ipynb` | Notebook | **Main executable analysis** |
 | `MLE_Assign4_Autompg.pdf` | 1.7MB | PDF submission |
-| `auto-mpg.csv` [file:22] | 18KB | Dataset (398×9) |
+| `auto-mpg.csv` | 18KB | Dataset (398×9) |
 | `Learning-Curve-Linear-Regression.jpg` | 53KB | Underfitting proof |
 | `Validation-Curve.jpg` | 59KB | Overfitting proof |
 | `README.md` | - | This file |
@@ -70,4 +70,5 @@ Deg 3: Train=0.7828/Test=0.7808 (gap=0.002 → early overfit)
 
 # 📚 **References**
 **Dataset**: UCI Auto MPG 
+
 
