@@ -16,12 +16,6 @@ Predicts fuel efficiency (MPG) from engine specs. Compares **linear underfitting
 | Polynomial 2 | 0.7544 | **0.7782** | ↓ | ↓ | 🏆 BEST |
 | Polynomial 3 | 0.7828 | 0.7808 | ↑ | ↑ | Overfits |
 
-## 📊 Key Visualizations
-![Learning Curve](Learning-Curve-Linear-Regression.jpg)  
-*High bias: both MSE converge ~15* 
-
-![Validation Curve](Validation-Curve.jpg)  
-*Degree 2 peak, degree 4 drop* 
 
 ## 📁 Repository Contents
 | File | Size | Purpose |
@@ -76,3 +70,4 @@ Deg 3: Train=0.7828/Test=0.7808 (gap=0.002 → early overfit)
 
 # 📚 **References**
 **Dataset**: UCI Auto MPG 
+
